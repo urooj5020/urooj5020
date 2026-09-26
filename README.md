@@ -8,7 +8,7 @@ I build dynamic, database-driven web applications — from backend logic and dat
 
 ## 🔭 What I'm doing now
 
-- Working as a **Backend Laravel Developer** at **ApexVim** (Remote), where I build and maintain server-side features using PHP and Laravel, following MVC architecture, and write MySQL queries for data storage and retrieval.
+- Working as a **Backend Laravel Developer** at **The Kinetic Digital** (Remote), where I build and maintain server-side features using PHP and Laravel, following MVC architecture, and write MySQL queries for data storage and retrieval.
 - Pursuing a **BS in Software Engineering** at Virtual University of Pakistan (2025–2029).
 - Practicing full stack development through personal projects — mixing backend logic with frontend interfaces built in React.js, HTML, CSS, and Tailwind.
 
